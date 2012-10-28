@@ -6,12 +6,20 @@
   <classTemplate>file:///Macintosh HD/Users/brian/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
   <classPath>.</classPath>
   <defaultApp/>
-  <rootURI>file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/Pong_2/</rootURI>
+  <rootURI>file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_2/</rootURI>
   <flexSDK/>
   <sources editable="false"/>
   <libraries editable="false"/>
   <externalLibraries editable="false"/>
   <compileList editable="false"/>
-  <recentFiles editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Ball.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_2/Ball.as</uri>
+    <uri label="Main.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_2/Main.as</uri>
+    <uri label="pong.fla">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_2/pong.fla</uri>
+    <uri label="Paddle.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_2/Paddle.as</uri>
+    <uri label="Main.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_2/Main.as</uri>
+    <uri label="pong.fla">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_2/pong.fla</uri>
+    <uri label="Ball.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_2/Ball.as</uri>
+  </recentFiles>
   <locations editable="false"/>
 </projectDescription>
