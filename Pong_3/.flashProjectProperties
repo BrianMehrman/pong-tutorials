@@ -1,0 +1,29 @@
+<projectDescription>
+  <id>1352081224586</id>
+  <name>Pong_3</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/brian/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/brian/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="pong.fla">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/end/pong.fla</uri>
+    <uri label="pong.fla">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/start/pong.fla</uri>
+    <uri label="ScoreBoard.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/end/ScoreBoard.as</uri>
+    <uri label="Ball.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/start/Ball.as</uri>
+    <uri label="Ball.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/end/Ball.as</uri>
+    <uri label="Main.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/end/Main.as</uri>
+    <uri label="Main.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/start/Main.as</uri>
+    <uri label="Court.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/end/Court.as</uri>
+    <uri label="Paddle.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/end/Paddle.as</uri>
+    <uri label="Paddle.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/start/Paddle.as</uri>
+    <uri label="GameEvent.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutororials/pong-tutorials/Pong_3/end/GameEvent.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

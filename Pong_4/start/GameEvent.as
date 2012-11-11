@@ -1,0 +1,1 @@
+﻿package {	import flash.events.Event;		public class GameEvent extends Event{				public static const SCORE_POINT:String = "score_point";				public function GameEvent(type:String, bubbles:Boolean=false, cancelable:Boolean=false) {			// constructor code			super(type,bubbles,cancelable);		}	}	}
